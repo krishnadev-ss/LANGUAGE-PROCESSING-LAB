@@ -32,6 +32,7 @@ int yyerror(char *msg){
     printf("invalid string");
     return 0;
 }
+}
 
 int main(){
     extern FILE *yyin;

@@ -2,7 +2,7 @@
     #include<stdio.h>
     #include<string.h>
     #include<stdlib.h>
-    #include <stdbool.h>
+    #include<stdbool.h>
     bool iskeyword(char *word){
     char keyword[][32] = {
         "break", "case", "char", "const","do", "double", "else", "float", "for", "goto", "if",
